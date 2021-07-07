@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "333295737589",
+    "project_id": "kbc-dbcorp-sahu",
+    "storage_bucket": "kbc-dbcorp-sahu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333295737589:android:3f481db21dd9fe49d1c3bc",
+        "android_client_info": {
+          "package_name": "com.example.kbc_db_corp_sahu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333295737589-9850nddsfg6e2hkhcf8lbv1sn7rl37lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAspgKs6CCe9U20_uuORrYIQ6VhCH5bdsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333295737589-9850nddsfg6e2hkhcf8lbv1sn7rl37lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
